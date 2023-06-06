@@ -32,3 +32,8 @@ section {
     font-weight: 700px;
 
 }
+
+.top-banner {
+    background-image: url(3d-geometric-abstract-background.jpg);
+    background-repeat: no-repeat;
+}
